@@ -4,7 +4,7 @@
 #include <iostream>
 #include <sstream>
 #include <cassert>
-#include "TimeSpan.h"
+#include "timespan.h"
 using namespace std;
 
 void myTest()
