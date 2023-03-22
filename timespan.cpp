@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath>
 #include <iomanip>
-#include "TimeSpan.h"
+#include "timespan.h"
 using namespace std;
 
 // Implementation for default constructor, initializes hours_, minutes_, and seconds_ to 0
