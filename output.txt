@@ -1,0 +1,48 @@
+########## TIMESPAN TEST CASES ##########
+
+Testing displaying TimeSpan objects (Positive Values)
+2:15:40
+9:44:22
+
+Testing displaying TimeSpan objects (Overflow and Negative Values)
+6:56:47
+2:09:58
+
+Testing adding TimeSpan objects
+12:00:02
+9:12:27
+4:25:38
+
+Testing subtracting TimeSpan objects
+27:50:35
+29:30:05
+2:06:54
+
+Testing += operator on TimeSpan objects
+0:51:16
+
+Testing -= operator on TimeSpan objects
+28:30:55
+
+Testing * operator on TimeSpan objects
+4:31:20
+
+Testing == operator on TimeSpan objects
+ts9 and ts10 are equal
+
+Testing != operator on TimeSpan objects
+ts11 and ts12 are not equal
+
+Testing < operator on TimeSpan objects
+ts13 is less than ts14
+
+Testing > operator on TimeSpan objects
+ts16 is greater than ts15
+
+Testing >= operator on TimeSpan objects
+ts18 is greater than or equal to ts17
+
+Testing <= operator on TimeSpan objects
+ts20 is less than or equal to ts19
+
+########## TEST CASES SUCCESSFULLY COMPLETED ##########
